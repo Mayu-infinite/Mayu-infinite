@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **Web Development projects**
 
-- 🌱 I’m currently learning **Machine Learning [in Python], DSA, Web development, Python libraries, Web development frameworks,**
+- 🌱 I’m currently learning **Machine Learning [in Python], DSA, Web development, Web development frameworks, Python libraries.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayu-infinite](https://github.com/Mayu-infinite)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **b23cy1016@iitj.ac.in**
 
-- 📄 Know about my experiences [Volunteering and presentation part in projects](Volunteering and presentation part in projects)
+- 📄 Know about my experiences [Volunteering and presentation part in projects]
 
 - ⚡ Fun fact **I think I am aesthetic but I am not...:p**
 
