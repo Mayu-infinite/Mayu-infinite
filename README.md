@@ -1,7 +1,7 @@
 ![cover](git.png)
 <h1 align="center">Hi 👋, I'm Mayuri R. Pujari #MRP</h1>
 
-<h3 align="center">A passionate frontend developer from Aurangabad, Maharashtra, India</h3>
+<h3 align="center">A passionate frontend developer from Chhatrapati Sambhajinagar, Maharashtra, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
   
