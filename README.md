@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Presentation skills**
 
-- 📫 How to reach me **b23cy1016@iitj.ac.in**
+- 📫 How to reach me **b23es1026@iitj.ac.in**
 
 - 📄 Know about my experiences [Volunteering and presentation part in projects]
 
