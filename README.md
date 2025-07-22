@@ -4,12 +4,6 @@
 <h3 align="center">🌸 Aesthetic Frontend Developer | Lifelong Learner | Coding Enthusiast 🌸</h3>
 
 <p align="center">
-  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="350" alt="Coding Octocat"/>
-</p>
-
----
-
-<p align="center">
   🔭 I’m currently working on <b>Web Development projects</b> <br>
   🌱 Learning: <b>Machine Learning (Python), DSA, Web Dev Frameworks, Python Libraries</b> <br>
   💬 Ask me about <b>Presentation Skills</b> <br>
