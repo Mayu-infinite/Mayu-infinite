@@ -64,7 +64,7 @@
 
 ## ✨ About Me
 
-- 🎓 Student at IIT Jodhpur | Chhatrapati Sambhajinagar, Maharashtra
+- 🎓 Student at IIT Jodhpur | Rajasthan
 - 👩‍💻 Passionate about building beautiful, user-friendly web interfaces
 - 🧩 Always eager to learn new technologies, frameworks, and algorithms
 - 🎤 Love public speaking, volunteering, and sharing knowledge
