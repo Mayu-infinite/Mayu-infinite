@@ -1,76 +1,98 @@
 ![cover](git.png)
 
-<h1 align="center">Hi 👋, I'm Mayuri R. Pujari <span style="color:#F7CA18">#MRP</span></h1>
-<h3 align="center">🌸 Aesthetic Frontend Developer | Lifelong Learner | Coding Enthusiast 🌸</h3>
+
 
 <p align="center">
-  🔭 I’m currently working on <b>Web Development projects</b> <br>
-  🌱 Learning: <b>Machine Learning (Python), DSA, Web Dev Frameworks, Python Libraries</b> <br>
-  💬 Ask me about <b>Presentation Skills</b> <br>
-  📫 Reach me: <b>b23es1026@iitj.ac.in</b> <br>
-  📄 Know about my experiences: <b>Volunteering & Presentations in Projects</b> <br>
-  ⚡ Fun fact: <i>I think I am aesthetic but I am not... :p</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Code.+Commit.+Repeat.+%F0%9F%94%81;Building+cool+stuff+%F0%9F%9A%80;Powered+by+chai+and+curiosity+%E2%98%95%F0%9F%A7%A0;Clean+code+is+my+superpower+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
----
 
-## 🚀 My Projects
 
-- Explore all my work: [GitHub Portfolio](https://github.com/Mayu-infinite)
 
----
+<h1 align="center">
+  Hi there, I'm Mayuri Pujari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
+</h1>
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mayuri-r-pujari-ab073028a/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/b23cy1016@iitj.ac.in" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mayuri12802" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/mayuri_57155" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayu-infinite&show_icons=true&theme=radical" alt="Mayuri's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayu-infinite&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <em>Aspiring Software Developer | It's not who I am underneath, but what I do that defines me.<br>
+  Passionate about exploring new technologies and building impactful solutions.<br>
+  Currently diving deeper into C++, JavaScript, and React.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayuri-r-pujari-ab073028a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Pujari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
 </p>
 
 ---
 
-## ✨ About Me
+## 🛠️ My Tech Stack & Tools
 
-- 🎓 Student at IIT Jodhpur | Rajasthan
-- 👩‍💻 Passionate about building beautiful, user-friendly web interfaces
-- 🧩 Always eager to learn new technologies, frameworks, and algorithms
-- 🎤 Love public speaking, volunteering, and sharing knowledge
+Here are some of the technologies and tools I'm working with or have experience in:
+
+**Languages:**  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+**Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+
+**Databases:**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+**Tools & Platforms:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Zsh"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+**Data Science & ML:**  
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mayu-infinite&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
+</p>
+
+
+
+## 📫 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayuri-r-pujari-ab073028a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" alt="LinkedIn Connect"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mayu-infinite" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github" alt="GitHub Follow"/>
+  </a>
+</p>
+
+---
+
+>"I don't want to survive. I want to live."  
+> <em>— The Captain, WALL-E</em>
 
 ---
 
 <p align="center">
-  <b>Let’s connect, collaborate, and code something amazing together! 🚀</b>
+  <em>Thanks for visiting my profile! Have a great day! 😊</em>
 </p>
